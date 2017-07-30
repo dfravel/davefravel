@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://davefravel.com/"
+baseurl = "https://www.davefravel.com/"
 
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
@@ -12,7 +12,7 @@ hasCJKLanguage = true
 
 [params]
     name = "Dave Fravel"
-    description = "Blog Description"
+    description = "Just what the world needs - thoughts from a middle-aged, white, suburban Dad."
     bio = "Dad, Boyfriend, Developer and Occasional Runner"
     # Enter optionally your twitter account
     twitter = "dfravel"
