@@ -1,0 +1,77 @@
+# Site settings
+baseurl = "https://davefravel.com/"
+
+# HTML Language Code Reference, such as en, zh-cn
+languageCode = "en"
+title = "Dave Fravel - Developer"
+theme = "cactus-plus"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-63967203-2"
+hasCJKLanguage = true
+
+[params]
+    name = "Dave Fravel"
+    description = "Blog Description"
+    bio = "Dad, Boyfriend, Developer and Occasional Runner"
+    # Enter optionally your twitter account
+    twitter = "dfravel"
+    enableRSS = false
+
+    # Disqus comment
+    disqusShortname = "dfravel"
+    # Disable disqus comments by set `enableDisqus = "false"`
+    enableDisqus = false
+
+    # Duoshuo comment
+    duoshuoShortname = "your_duoshuo_short_name"
+    # Disable duoshuo comments by set `enableDuoshuo = "false"`
+    enableDuoshuo = false
+
+    enableGithubIssuesTips = false
+
+    # Enable googleAnalytics
+    enableGoogleAnalytics = true
+
+    # Enable baiduAnalytics
+    enableBaiduAnalytics = false
+    # Baidu Tongji Code
+    baiduAnalytics = 'your_baidu_tongji_code'
+
+    # Add custom assets with their paths relative to the static folder
+    customCSS = []
+    customJS  = []
+
+    # The variables below are optionally too and can be used to
+    # translate or customize each string of the theme.
+
+    # Navigation links
+    home = ""
+    about = ""
+    archive = ""
+    subscribe = ""
+    # Pagination links
+    olderPosts = ""
+    newerPosts = ""
+    readMore = ""
+    copyright = ""
+    # Sharing options and author information in posts
+    aboutAuthor = "Testing testing testing."
+    tweet = ""
+    share = ""
+    # 404 page
+    title404 = "Oops"
+    subtitle404 = "Page Not found"
+
+    # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+    iconFont = "font-awesome"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = ""
+
+
+# Add additional social link entries underneath
+[social]
+    facebook-square = "https://facebook.com/dfravel"
+    twitter-square = "https://twitter.com/dfravel"
+    github-square = "https://github.com/dfravel"
+    linkedin-square = "https://linkedin.com/in/dfravel"
