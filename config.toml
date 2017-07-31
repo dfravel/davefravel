@@ -3,7 +3,7 @@ baseurl = "https://www.davefravel.com/"
 
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
-title = "Dave Fravel - Developer"
+title = "Dave Fravel - Dad, Boyfriend, Developer, Occasional Runner &amp; Maker of Mistake"
 theme = "cactus-plus"
 
 # Enter your tracking code to enable Google Analytics
@@ -13,7 +13,7 @@ hasCJKLanguage = true
 [params]
     name = "Dave Fravel"
     description = "Just what the world needs - thoughts from a middle-aged, white, suburban Dad."
-    bio = "Dad, Boyfriend, Developer and Occasional Runner"
+    bio = "Thoughts from a middle-aged, white, suburban Dad"
     # Enter optionally your twitter account
     twitter = "dfravel"
     enableRSS = false
@@ -21,7 +21,7 @@ hasCJKLanguage = true
     # Disqus comment
     disqusShortname = "dfravel"
     # Disable disqus comments by set `enableDisqus = "false"`
-    enableDisqus = false
+    enableDisqus = true
 
     # Duoshuo comment
     duoshuoShortname = "your_duoshuo_short_name"
