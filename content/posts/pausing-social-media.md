@@ -2,7 +2,7 @@
 title: "Pausing Social Media"
 description: "In which I attempt to stick a dagger in the time-wasters and online black holes that were taking up too much of my life."
 date: 2016-12-31T09:45:07-04:00
-draft: true
+draft: false
 tags: [ "writing"]
 ---
 
