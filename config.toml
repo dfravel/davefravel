@@ -21,7 +21,7 @@ hasCJKLanguage = true
     # Disqus comment
     disqusShortname = "davefravel"
     # Disable disqus comments by set `enableDisqus = "false"`
-    enableDisqus = true
+    enableDisqus = false
 
     # Duoshuo comment
     duoshuoShortname = "your_duoshuo_short_name"
