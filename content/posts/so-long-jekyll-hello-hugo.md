@@ -1,5 +1,6 @@
 ---
 title: "So long Jekyll, Hello Hugo"
+description: "I've played with WordPress and Jekyll. It's time to give Hugo a try."
 date: 2017-07-30T08:43:49-04:00
 draft: false
 tags: [ "writing"]

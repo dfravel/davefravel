@@ -1,5 +1,6 @@
 ---
 title: "Overcoming Imposter Syndrome"
+description: "I'm making a promise to myself. I'm going to share more of my experiences with the hope that someone might benefit from them."
 date: 2017-06-04T08:47:58-04:00
 draft: false
 tags: [ "development"]

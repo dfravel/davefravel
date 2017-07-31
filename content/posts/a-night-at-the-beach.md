@@ -1,5 +1,6 @@
 ---
 title: "Quick Stop at the Beach"
+description: "I have a love/hate relationship with the Cape. A 45-minute impromptu stop in Eastham reminded me why I love it."
 date: 2017-07-30T20:02:41-04:00
 draft: false
 tags: [ "capecod"]
