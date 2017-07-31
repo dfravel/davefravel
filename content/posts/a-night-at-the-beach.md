@@ -1,7 +1,7 @@
 ---
 title: "Quick Stop at the Beach"
 date: 2017-07-30T20:02:41-04:00
-draft: true
+draft: false
 tags: [ "capecod"]
 ---
 
