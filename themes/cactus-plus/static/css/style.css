@@ -338,9 +338,9 @@ em, i {
 }
 
 .post h2 {
-    margin-bottom: 40px;
-    font: 300 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #111;
+    margin-bottom: 5px;
+    font: 400 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
 }
 
 .post h2.headline {
