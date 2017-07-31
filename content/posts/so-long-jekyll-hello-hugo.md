@@ -2,6 +2,7 @@
 title: "So long Jekyll, Hello Hugo"
 date: 2017-07-30T08:43:49-04:00
 draft: false
+tags: [ "writing"]
 ---
 I had been maintaining a blog in Jekyll, but it seemed like overkill - so much time spent looking for images, figuring out front-matter, tweaking settings. I was trying to squeeze 10 pounds of crap in a 5 pound bad.
 
