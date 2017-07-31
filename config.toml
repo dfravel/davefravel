@@ -19,7 +19,7 @@ hasCJKLanguage = true
     enableRSS = false
 
     # Disqus comment
-    disqusShortname = "dfravel"
+    disqusShortname = "davefravel"
     # Disable disqus comments by set `enableDisqus = "false"`
     enableDisqus = true
 
