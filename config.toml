@@ -3,7 +3,7 @@ baseurl = "https://www.davefravel.com/"
 
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
-title = "Dave Fravel - Dad, Boyfriend, Developer, Occasional Runner &amp; Maker of Mistake"
+title = "Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner"
 theme = "cactus-plus"
 
 # Enter your tracking code to enable Google Analytics
