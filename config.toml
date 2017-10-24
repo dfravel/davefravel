@@ -13,7 +13,7 @@ hasCJKLanguage = true
 [params]
     name = "Dave Fravel"
     description = "Just what the world needs - thoughts from a middle-aged, white, suburban Dad."
-    bio = "Thoughts from a middle-aged, white, suburban Dad"
+    bio = "Dad, Boyfriend, Developer"
     # Enter optionally your twitter account
     twitter = "dfravel"
     enableRSS = false
