@@ -6,7 +6,7 @@ draft: false
 tags: ["Development"]
 ---
 
-I kept getting a "401 Unauthenticated" error with my VueJS/Laravel application. I could login without a problem. The Vuex state had my token. Local Storage has the token, but for some reason the initial call to fill the dashboard after login failed every time. What's worse - a quick refresh of the page and it was fine.
+I kept getting a "401 Unauthenticated" error with my VueJS/Laravel application. I could login without a problem. The Vuex state had my token. Local Storage had the token, but for some reason the initial call to fill the dashboard after login failed every time. What's worse - a quick refresh of the page and it was fine.
 
 After much reading, searching, and head-scratching I discovered that Axios Interceptors would do the trick.
 
