@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.davefravel.com/"
+baseurl = "https://davefravel.com/"
 
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
