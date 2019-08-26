@@ -28,7 +28,7 @@ Prior to this, my Laravel debugging has been a series of dd() and Log::info() ca
 ## Brew 
 I made the decision to upgrade to PHP 7.1 while implementing debugging. I had been running PHP 7.0 without issue, but our Laravel Forge/Digital Ocean servers have all been upgraded to 7.1.
 
-Make sure that brew is up to date:
+Make sure that brew is up to date
 ``` 
 brew update
 brew upgrade

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</title>
+    <link>https://www.davefravel.com/</link>
+    <description>Recent content on Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Oct 2017 16:56:16 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.davefravel.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting Up Xdebug</title>
+      <link>https://www.davefravel.com/posts/development/setting-up-xdebug/</link>
+      <pubDate>Tue, 24 Oct 2017 16:56:16 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/setting-up-xdebug/</guid>
+      <description>Disclaimers and Prelude My dev setup prior to implementing PHP Debug is the following: Laravel Valet PHP 7.0 (through homebrew) macOS High Sierra Visual Studio Code I did not have PHP Xdebug installed, and while I had looked into it at one point, I did not have Felix Becker&amp;rsquo;s PHP Debug extension installed. Intro The push that I needed to finally tackle proper debugging in Visual Studio Code came from</description>
+    </item>
+    
+    <item>
+      <title>Journey Through New Languages</title>
+      <link>https://www.davefravel.com/posts/development/journey-through-new-languages/</link>
+      <pubDate>Sat, 12 Aug 2017 12:07:21 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/journey-through-new-languages/</guid>
+      <description>Earlier this week I hit a roadblock. I was frustrated with my chosen tech stack and felt like I was missing out on a much broader world of opportunities. I started down a new path of researching Elm and React with a promise to myself to learn something new.
+After an hour with React it was obvious that the barrier to entry to get comfortable with the language was too high.</description>
+    </item>
+    
+    <item>
+      <title>Learning Something New</title>
+      <link>https://www.davefravel.com/posts/development/learning-something-new/</link>
+      <pubDate>Mon, 07 Aug 2017 08:05:58 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/learning-something-new/</guid>
+      <description>It was a bit of a loaded question that I posed to friends and followers on Twitter - &amp;ldquo;if you have 10 hours that you can dedicate to self-improvement in your profession, do you dedicate that time to getting better at the things you already know, or do you put the time into learning something new?&amp;ldquo;&amp;rdquo;
+I didn&amp;rsquo;t get a lot of responses, but the ones I did get weren&amp;rsquo;t a surprise.</description>
+    </item>
+    
+    <item>
+      <title>Make Quinoa In The Rice Cooker</title>
+      <link>https://www.davefravel.com/posts/cooking/make-quinoa-in-the-rice-cooker/</link>
+      <pubDate>Thu, 03 Aug 2017 08:03:56 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/cooking/make-quinoa-in-the-rice-cooker/</guid>
+      <description>I spent 44 years of my life oblivious to quinoa. For 43 of those years I had never even heard of it. I didn&amp;rsquo;t discover it until I was at a family cookout and someone brought a quinoa salad.
+In all honesty, the salad was pretty bad. The person who brought it overcooked the quinoa. The consistency was closer to rice pudding than anything resembling what quinoa is supposed to be, but it opened my eyes to a new potential side dish.</description>
+    </item>
+    
+    <item>
+      <title>Pausing Social Media Again</title>
+      <link>https://www.davefravel.com/posts/development/writing/pausing-social-media-again/</link>
+      <pubDate>Tue, 01 Aug 2017 07:32:06 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/pausing-social-media-again/</guid>
+      <description>One of my resolutions in the New Year was to pause social media. I lasted a few days away from Twitter; significantly longer for other social media. By July I was back on all of the &amp;ldquo;standard&amp;rdquo; social media apps and time-wasting sites:
+ Twitter Facebook LinkedIn Instagram Reddit  Coincidentally, my energy level, focus, attention to detail and overall mood all took a hit in July.
+It doesn&amp;rsquo;t help that our President uses social media to get his &amp;ldquo;unique&amp;rdquo; message out to the country, and it really doesn&amp;rsquo;t help that his &amp;ldquo;unique&amp;rdquo; message comes with an exhausting level of hate and vitriol.</description>
+    </item>
+    
+    <item>
+      <title>No More Tweetstorms</title>
+      <link>https://www.davefravel.com/posts/development/writing/no-more-tweetstorms/</link>
+      <pubDate>Mon, 31 Jul 2017 09:20:24 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/no-more-tweetstorms/</guid>
+      <description>One of the reasons that I decided to start writing online again was to do my part to stop the rise of tweetstorms and other nonsense on Twitter.
+Tweetstorms (1/??) and quoting tweets with “!” or 👀are two 2017 habits that I hope we can all break by 2018
+&amp;mdash; Dave Fravel (@dfravel) June 21, 2017  Don&amp;rsquo;t get me wrong. I love Twitter and the opportunity it provides to get ideas out quickly to the masses, but it&amp;rsquo;s not the best medium for deeper thinking.</description>
+    </item>
+    
+    <item>
+      <title>Quick Stop at the Beach</title>
+      <link>https://www.davefravel.com/posts/capecod/a-night-at-the-beach/</link>
+      <pubDate>Sun, 30 Jul 2017 20:02:41 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/capecod/a-night-at-the-beach/</guid>
+      <description>I don&amp;rsquo;t always give Cape Cod enough credit. It&amp;rsquo;s easy to bash the place I&amp;rsquo;ve called home for the past 20 years:
+ There aren&amp;rsquo;t enough jobs. There isn&amp;rsquo;t enough opportunity for young families. The cost of living is incredibly high. We have a little bit of a heroin problem. The median age is closing in on 50, and showing no signs of reversing course  In short - I spend a lot of time thinking about what it would be like to live somewhere else.</description>
+    </item>
+    
+    <item>
+      <title>So long Jekyll, Hello Hugo</title>
+      <link>https://www.davefravel.com/posts/development/writing/so-long-jekyll-hello-hugo/</link>
+      <pubDate>Sun, 30 Jul 2017 08:43:49 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/so-long-jekyll-hello-hugo/</guid>
+      <description>I had been maintaining a blog in Jekyll, but it seemed like overkill - so much time spent looking for images, figuring out front-matter, tweaking settings. I was trying to squeeze 10 pounds of crap in a 5 pound bad.
+Phil Sturgeon posed a question on Twitter ISO a new blog platform. He didn&amp;rsquo;t want to pay for Medium (I can&amp;rsquo;t blame him) and wanted something simple.
+Ok, time to setup that new blog.</description>
+    </item>
+    
+    <item>
+      <title>Custom(ish) Templates In Craft Cms</title>
+      <link>https://www.davefravel.com/posts/development/custom-templates-in-craft-cms/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/custom-templates-in-craft-cms/</guid>
+      <description>Custom Templates I&amp;rsquo;m at the point with Craft CMS that I want to go back and re-do at least 15 previous websites. Once the information architecture is decided upon and the templates are created, the management, support and administration of a Craft-based site is a joy.
+Recently, I worked with a client to re-do their WordPress site. We had about 85% of the information architecture nailed down prior to development, but as more content was finalized we discovered that we&amp;rsquo;d coded ourselves into a corner.</description>
+    </item>
+    
+    <item>
+      <title>Overcoming Imposter Syndrome</title>
+      <link>https://www.davefravel.com/posts/development/overcoming-imposter-syndrome/</link>
+      <pubDate>Sun, 04 Jun 2017 08:47:58 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/overcoming-imposter-syndrome/</guid>
+      <description>Someone might benefit I&amp;rsquo;m sure imposter syndrome exists in other professions. Perhaps there&amp;rsquo;s a hierarchy of specialties where a dermatologist is too nervous to talk with a heart surgeon. Maybe it&amp;rsquo;s the anxiety of one surgeon in the presence of another &amp;ldquo;Oh god - don&amp;rsquo;t look at those sutures. If I had more time I could have done a much better job&amp;rdquo;
+I took a few years off from hard-core web development.</description>
+    </item>
+    
+    <item>
+      <title>Pausing Social Media</title>
+      <link>https://www.davefravel.com/posts/development/writing/pausing-social-media/</link>
+      <pubDate>Sat, 31 Dec 2016 09:45:07 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/pausing-social-media/</guid>
+      <description>It&amp;rsquo;s not me. It&amp;rsquo;s you (ok - maybe it&amp;rsquo;s me). It would be the same routine - repeated every hour or two - a round robin of time-wasters. First it would be Facebook, then Instagram and then LinkedIn. If there was nothing of interest or comment-worthy, I&amp;rsquo;d open Reddit and scan through the front page .. and then the second page. All in an attempt to put off whatever I should be doing at that moment.</description>
+    </item>
+    
+  </channel>
+</rss>

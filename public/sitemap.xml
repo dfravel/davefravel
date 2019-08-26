@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/setting-up-xdebug/</loc>
+    <lastmod>2017-10-24T16:56:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/journey-through-new-languages/</loc>
+    <lastmod>2017-08-12T12:07:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/learning-something-new/</loc>
+    <lastmod>2017-08-07T08:05:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/cooking/make-quinoa-in-the-rice-cooker/</loc>
+    <lastmod>2017-08-03T08:03:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/writing/pausing-social-media-again/</loc>
+    <lastmod>2017-08-01T07:32:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/writing/no-more-tweetstorms/</loc>
+    <lastmod>2017-07-31T09:20:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/capecod/a-night-at-the-beach/</loc>
+    <lastmod>2017-07-30T20:02:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/writing/so-long-jekyll-hello-hugo/</loc>
+    <lastmod>2017-07-30T08:43:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/about/</loc>
+    <lastmod>2017-07-30T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/custom-templates-in-craft-cms/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/overcoming-imposter-syndrome/</loc>
+    <lastmod>2017-06-04T08:47:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/development/writing/pausing-social-media/</loc>
+    <lastmod>2016-12-31T09:45:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/tags/capecod/</loc>
+    <lastmod>2017-07-30T20:02:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/tags/cooking/</loc>
+    <lastmod>2017-08-03T08:03:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/tags/craft-cms/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/</loc>
+    <lastmod>2017-10-24T16:56:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/tags/development/</loc>
+    <lastmod>2017-10-24T16:56:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/posts/</loc>
+    <lastmod>2017-10-24T16:56:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/tags/</loc>
+    <lastmod>2017-07-30T20:02:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.davefravel.com/tags/writing/</loc>
+    <lastmod>2017-08-01T07:32:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

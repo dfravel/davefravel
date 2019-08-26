@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</title>
+    <link>https://www.davefravel.com/tags/writing/</link>
+    <description>Recent content in Writing on Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Aug 2017 07:32:06 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.davefravel.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pausing Social Media Again</title>
+      <link>https://www.davefravel.com/posts/development/writing/pausing-social-media-again/</link>
+      <pubDate>Tue, 01 Aug 2017 07:32:06 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/pausing-social-media-again/</guid>
+      <description>One of my resolutions in the New Year was to pause social media. I lasted a few days away from Twitter; significantly longer for other social media. By July I was back on all of the &amp;ldquo;standard&amp;rdquo; social media apps and time-wasting sites:
+ Twitter Facebook LinkedIn Instagram Reddit  Coincidentally, my energy level, focus, attention to detail and overall mood all took a hit in July.
+It doesn&amp;rsquo;t help that our President uses social media to get his &amp;ldquo;unique&amp;rdquo; message out to the country, and it really doesn&amp;rsquo;t help that his &amp;ldquo;unique&amp;rdquo; message comes with an exhausting level of hate and vitriol.</description>
+    </item>
+    
+    <item>
+      <title>No More Tweetstorms</title>
+      <link>https://www.davefravel.com/posts/development/writing/no-more-tweetstorms/</link>
+      <pubDate>Mon, 31 Jul 2017 09:20:24 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/no-more-tweetstorms/</guid>
+      <description>One of the reasons that I decided to start writing online again was to do my part to stop the rise of tweetstorms and other nonsense on Twitter.
+Tweetstorms (1/??) and quoting tweets with “!” or 👀are two 2017 habits that I hope we can all break by 2018
+&amp;mdash; Dave Fravel (@dfravel) June 21, 2017  Don&amp;rsquo;t get me wrong. I love Twitter and the opportunity it provides to get ideas out quickly to the masses, but it&amp;rsquo;s not the best medium for deeper thinking.</description>
+    </item>
+    
+    <item>
+      <title>So long Jekyll, Hello Hugo</title>
+      <link>https://www.davefravel.com/posts/development/writing/so-long-jekyll-hello-hugo/</link>
+      <pubDate>Sun, 30 Jul 2017 08:43:49 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/so-long-jekyll-hello-hugo/</guid>
+      <description>I had been maintaining a blog in Jekyll, but it seemed like overkill - so much time spent looking for images, figuring out front-matter, tweaking settings. I was trying to squeeze 10 pounds of crap in a 5 pound bad.
+Phil Sturgeon posed a question on Twitter ISO a new blog platform. He didn&amp;rsquo;t want to pay for Medium (I can&amp;rsquo;t blame him) and wanted something simple.
+Ok, time to setup that new blog.</description>
+    </item>
+    
+    <item>
+      <title>Pausing Social Media</title>
+      <link>https://www.davefravel.com/posts/development/writing/pausing-social-media/</link>
+      <pubDate>Sat, 31 Dec 2016 09:45:07 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/writing/pausing-social-media/</guid>
+      <description>It&amp;rsquo;s not me. It&amp;rsquo;s you (ok - maybe it&amp;rsquo;s me). It would be the same routine - repeated every hour or two - a round robin of time-wasters. First it would be Facebook, then Instagram and then LinkedIn. If there was nothing of interest or comment-worthy, I&amp;rsquo;d open Reddit and scan through the front page .. and then the second page. All in an attempt to put off whatever I should be doing at that moment.</description>
+    </item>
+    
+  </channel>
+</rss>

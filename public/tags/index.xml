@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</title>
+    <link>https://www.davefravel.com/tags/</link>
+    <description>Recent content in Tags on Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Jul 2017 20:02:41 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.davefravel.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capecod</title>
+      <link>https://www.davefravel.com/tags/capecod/</link>
+      <pubDate>Sun, 30 Jul 2017 20:02:41 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/tags/capecod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooking</title>
+      <link>https://www.davefravel.com/tags/cooking/</link>
+      <pubDate>Thu, 03 Aug 2017 08:03:56 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/tags/cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craft Cms</title>
+      <link>https://www.davefravel.com/tags/craft-cms/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davefravel.com/tags/craft-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://www.davefravel.com/tags/development/</link>
+      <pubDate>Tue, 24 Oct 2017 16:56:16 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://www.davefravel.com/tags/writing/</link>
+      <pubDate>Tue, 01 Aug 2017 07:32:06 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

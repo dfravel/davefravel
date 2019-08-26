@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</title>
+    <link>https://www.davefravel.com/tags/development/</link>
+    <description>Recent content in Development on Dave Fravel - Dad, Boyfriend, Developer and Occasional Runner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Oct 2017 16:56:16 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.davefravel.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting Up Xdebug</title>
+      <link>https://www.davefravel.com/posts/development/setting-up-xdebug/</link>
+      <pubDate>Tue, 24 Oct 2017 16:56:16 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/setting-up-xdebug/</guid>
+      <description>Disclaimers and Prelude My dev setup prior to implementing PHP Debug is the following: Laravel Valet PHP 7.0 (through homebrew) macOS High Sierra Visual Studio Code I did not have PHP Xdebug installed, and while I had looked into it at one point, I did not have Felix Becker&amp;rsquo;s PHP Debug extension installed. Intro The push that I needed to finally tackle proper debugging in Visual Studio Code came from</description>
+    </item>
+    
+    <item>
+      <title>Journey Through New Languages</title>
+      <link>https://www.davefravel.com/posts/development/journey-through-new-languages/</link>
+      <pubDate>Sat, 12 Aug 2017 12:07:21 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/journey-through-new-languages/</guid>
+      <description>Earlier this week I hit a roadblock. I was frustrated with my chosen tech stack and felt like I was missing out on a much broader world of opportunities. I started down a new path of researching Elm and React with a promise to myself to learn something new.
+After an hour with React it was obvious that the barrier to entry to get comfortable with the language was too high.</description>
+    </item>
+    
+    <item>
+      <title>Learning Something New</title>
+      <link>https://www.davefravel.com/posts/development/learning-something-new/</link>
+      <pubDate>Mon, 07 Aug 2017 08:05:58 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/learning-something-new/</guid>
+      <description>It was a bit of a loaded question that I posed to friends and followers on Twitter - &amp;ldquo;if you have 10 hours that you can dedicate to self-improvement in your profession, do you dedicate that time to getting better at the things you already know, or do you put the time into learning something new?&amp;ldquo;&amp;rdquo;
+I didn&amp;rsquo;t get a lot of responses, but the ones I did get weren&amp;rsquo;t a surprise.</description>
+    </item>
+    
+    <item>
+      <title>Overcoming Imposter Syndrome</title>
+      <link>https://www.davefravel.com/posts/development/overcoming-imposter-syndrome/</link>
+      <pubDate>Sun, 04 Jun 2017 08:47:58 -0400</pubDate>
+      
+      <guid>https://www.davefravel.com/posts/development/overcoming-imposter-syndrome/</guid>
+      <description>Someone might benefit I&amp;rsquo;m sure imposter syndrome exists in other professions. Perhaps there&amp;rsquo;s a hierarchy of specialties where a dermatologist is too nervous to talk with a heart surgeon. Maybe it&amp;rsquo;s the anxiety of one surgeon in the presence of another &amp;ldquo;Oh god - don&amp;rsquo;t look at those sutures. If I had more time I could have done a much better job&amp;rdquo;
+I took a few years off from hard-core web development.</description>
+    </item>
+    
+  </channel>
+</rss>

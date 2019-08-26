@@ -71,7 +71,7 @@ hasCJKLanguage = true
 
 # Add additional social link entries underneath
 [social]
-    facebook-square = "https://facebook.com/dfravel"
+    # facebook-square = "https://facebook.com/dfravel"
     twitter-square = "https://twitter.com/dfravel"
     github-square = "https://github.com/dfravel"
     linkedin-square = "https://linkedin.com/in/dfravel"
