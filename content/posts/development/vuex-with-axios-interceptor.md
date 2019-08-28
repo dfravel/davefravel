@@ -10,7 +10,7 @@ I kept getting a "401 Unauthenticated" error with my VueJS/Laravel application. 
 
 After much reading, searching, and head-scratching I discovered that Axios Interceptors would do the trick.
 
-Here's the original code where I was calling the local storage token from within the API client:
+Here's the original code where I was calling the local storage token from within the API client **this is the bad stuff. don't copy/paste this**:
 
 ```
 import axios from "axios";
@@ -32,7 +32,7 @@ export default {
     },
 ```
 
-Here's the new code where I've created an http-common.js file
+Here's the new code where I've created an http-common.js file **this is the good stuff**
 
 ```
 import axios from "axios";

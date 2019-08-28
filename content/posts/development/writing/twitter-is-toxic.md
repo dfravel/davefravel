@@ -1,6 +1,6 @@
 ---
 title: "Twitter is toxic"
-description: "I can't believe how much better I feel deactivating Twitter"
+description: "I can't believe how much better I feel after deactivating Twitter. Why did I wait so long, and how can I make sure it sticks?"
 date: 2019-08-28
 draft: false
 tags: ["writing"]
