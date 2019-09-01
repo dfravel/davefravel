@@ -1,6 +1,6 @@
 ---
 title: "Maybe it will stick this time"
-description: "It's round 3 of my social media blackout, and I took a drastoc approach."
+description: "It's round 3 of my social media blackout, and I took a drastic approach. I don't know what comes next. If this will last, or if I want it to last."
 date: 2019-08-27
 draft: false
 tags: ["writing"]
